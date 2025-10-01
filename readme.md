@@ -27,7 +27,7 @@ This tool reads Excel files (`.xlsx`), converts each sheet to HTML, and uses Pla
 2. **Install Python dependencies:**
 
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    pip install playwright openpyxl xlsx2html
    ```
 
